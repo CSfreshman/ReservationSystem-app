@@ -1,0 +1,187 @@
+{
+	"data": [
+	        {
+	            "id": 100001,
+	            "name": "篮球馆",
+	            "optionalDateVos": [
+	                {
+	                    "date": "2023-10-28",
+	                    "optionalTimes": [
+	                        {
+	                            "id": 1,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 49,
+	                            "startTime": "08:00:00",
+	                            "endTime": "09:59:59"
+	                        },
+	                        {
+	                            "id": 2,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "10:00:00",
+	                            "endTime": "11:59:59"
+	                        },
+	                        {
+	                            "id": 3,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "12:00:00",
+	                            "endTime": "13:59:59"
+	                        },
+	                        {
+	                            "id": 4,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "14:00:00",
+	                            "endTime": "15:59:59"
+	                        },
+	                        {
+	                            "id": 5,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "16:00:00",
+	                            "endTime": "17:59:59"
+	                        },
+	                        {
+	                            "id": 6,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "18:00:00",
+	                            "endTime": "19:59:59"
+	                        },
+	                        {
+	                            "id": 7,
+	                            "venueId": 100001,
+	                            "venueName": null,
+	                            "date": 1698422400000,
+	                            "dateString": "2023-10-28",
+	                            "number": 50,
+	                            "startTime": "20:00:00",
+	                            "endTime": "21:59:59"
+	                        }
+	                    ]
+	                },
+	                {
+	                    "date": "2023-10-29",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-10-30",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-10-31",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-11-01",
+	                    "optionalTimes": []
+	                }
+	            ]
+	        },
+	        {
+	            "id": 100002,
+	            "name": "乒乓球馆",
+	            "optionalDateVos": [
+	                {
+	                    "date": "2023-10-28",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-10-29",
+	                    "optionalTimes": [
+	                        {
+	                            "id": 9,
+	                            "venueId": 100002,
+	                            "venueName": null,
+	                            "date": 1698508800000,
+	                            "dateString": "2023-10-29",
+	                            "number": 122,
+	                            "startTime": "14:14:45",
+	                            "endTime": "14:14:46"
+	                        }
+	                    ]
+	                },
+	                {
+	                    "date": "2023-10-30",
+	                    "optionalTimes": [
+	                        {
+	                            "id": 10,
+	                            "venueId": 100002,
+	                            "venueName": null,
+	                            "date": 1698595200000,
+	                            "dateString": "2023-10-30",
+	                            "number": 100,
+	                            "startTime": "08:14:25",
+	                            "endTime": "14:14:29"
+	                        }
+	                    ]
+	                },
+	                {
+	                    "date": "2023-10-31",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-11-01",
+	                    "optionalTimes": []
+	                }
+	            ]
+	        },
+	        {
+	            "id": 100003,
+	            "name": "羽毛球馆",
+	            "optionalDateVos": [
+	                {
+	                    "date": "2023-10-28",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-10-29",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-10-30",
+	                    "optionalTimes": [
+	                        {
+	                            "id": 11,
+	                            "venueId": 100003,
+	                            "venueName": null,
+	                            "date": 1698595200000,
+	                            "dateString": "2023-10-30",
+	                            "number": 100,
+	                            "startTime": "08:14:25",
+	                            "endTime": "14:14:29"
+	                        }
+	                    ]
+	                },
+	                {
+	                    "date": "2023-10-31",
+	                    "optionalTimes": []
+	                },
+	                {
+	                    "date": "2023-11-01",
+	                    "optionalTimes": []
+	                }
+	            ]
+	        }
+	    ]
+}
+

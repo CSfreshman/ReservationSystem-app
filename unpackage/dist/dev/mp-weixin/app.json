@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/cart/index",
+    "pages/order/order-detail",
+    "pages/menu/index",
+    "pages/mine/index",
+    "pages/order/index",
+    "pages/mine/personal/list",
+    "pages/mine/personal/change-name",
+    "pages/mine/address/list",
+    "pages/mine/address/add",
+    "pages/mine/address/edit",
+    "pages/mine/wallet/index",
+    "pages/mine/coupon/index",
+    "pages/mine/cash/index",
+    "pages/mine/invoice/index",
+    "pages/mine/invoice/open",
+    "pages/mine/invoice/explain",
+    "pages/mine/invoice/open-info",
+    "pages/mine/invoice/record",
+    "pages/mine/invoice/title",
+    "pages/mine/invoice/title-add",
+    "pages/mine/feedback/list",
+    "pages/mine/feedback/feedback",
+    "pages/mine/feedback/about",
+    "pages/mine/feedback/details",
+    "pages/mine/message",
+    "pages/home/presented",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "color": "#8a8396",
+    "selectedColor": "#2a4c7e",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "iconPath": "static/common/tabbar/home.png",
+        "selectedIconPath": "static/common/tabbar/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/menu/index",
+        "iconPath": "static/common/tabbar/预约.png",
+        "selectedIconPath": "static/common/tabbar/预约.png",
+        "text": "预约"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "iconPath": "static/common/tabbar/order.png",
+        "selectedIconPath": "static/common/tabbar/order-active.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/common/tabbar/mine.png",
+        "selectedIconPath": "static/common/tabbar/mine-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
