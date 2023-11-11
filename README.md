@@ -1,2 +1,1 @@
-# shop
-一个基于uni-app的商城app
+基于uni-app的球馆预约app
